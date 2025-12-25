@@ -172,5 +172,5 @@ By proceeding with the project, the client acknowledges and agrees to all the ab
 
 ---
 
-© Copyright 2025 jaymeen07-r.  
+© 2025 jaymeen07-r.  
 All rights reserved.
