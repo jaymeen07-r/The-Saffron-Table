@@ -1,12 +1,12 @@
-# 🍽️ The Saffron Table – Restaurant QR Ordering System (Mobile Website)
+# 🍽️ Desi Kitchen – Restaurant QR Ordering System (Mobile Website)
 
-A **mobile-first restaurant ordering system** for *The Saffron Table*, where customers scan a **QR code** placed on their table to view the menu, place orders, and check their bills.  
+A **mobile-first restaurant ordering system** for *Desi Kitchen*, where customers scan a **QR code** placed on their table to view the menu, place orders, and check their bills.  
 Hotel staff, kitchen staff, and admin manage operations through **role-based dashboards** — all accessible via any mobile browser (no app required).
 
 ---
 
 ### 📌 Project Overview
-This project is designed specifically for operations at **The Saffron Table**, supporting real-time digital orders and smart billing.
+This project is designed specifically for operations at **Desi Kitchen**, supporting real-time digital orders and smart billing.
 
 - 17 tables with QR code stickers  
 - 200+ food items and dynamic menu updates  
