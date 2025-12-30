@@ -1,6 +1,6 @@
 # Security Policy
 
-The Saffron Table – Restaurant QR Ordering System takes security seriously, especially because it handles order, billing, and customer contact information. This document explains which versions are supported and how to report vulnerabilities.
+Desi Kitchen – Restaurant QR Ordering System takes security seriously, especially because it handles order, billing, and customer contact information. This document explains which versions are supported and how to report vulnerabilities.
 
 ---
 
@@ -27,7 +27,7 @@ If you discover a security vulnerability, **do not create a public issue or pull
 Please send a detailed report via:
 
 - **Email:** `security@thesaffrontable.com` (example – replace with your real address)
-- **Subject line:** `Security Report – The Saffron Table QR System`
+- **Subject line:** `Security Report – Desi Kitchen QR System`
 
 Include, where possible:
 
@@ -79,7 +79,7 @@ Out of scope (but you can still report if you are unsure):
 
 ## Best Practices for Deployers
 
-If you are deploying The Saffron Table – Restaurant QR Ordering System:
+If you are deploying Desi Kitchen – Restaurant QR Ordering System:
 
 - Always run the **latest stable version**.
 - Use **strong, unique passwords** for all admin and staff accounts.
